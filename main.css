@@ -1,6 +1,6 @@
 body
 {
-  background-image: url("/content/background.jpg");
+  background: url(content/background.jpg) lightblue;
   margin: 60px auto;
   width: 70%;
 }
