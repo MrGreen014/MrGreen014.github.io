@@ -1,6 +1,11 @@
 body
 {
   background: url(content/background.jpg) lightblue;
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 60px auto;
   width: 70%;
 }
