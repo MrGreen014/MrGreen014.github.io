@@ -1,6 +1,6 @@
 body
 {
-  background: url(content/background.jpg) lightblue;
+  background-image: url(content/background.jpg) lightblue;
   height: 100%;
   background-attachment: fixed;
   background-position: center;
